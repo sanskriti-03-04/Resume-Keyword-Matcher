@@ -5,10 +5,8 @@ Created on Wed Feb 19 13:44:37 2025
 @author: sansk
 """
 
-spacy
-pymupdf
-scikit-learn
 streamlit
-sentence-transformers
+transformers
+spacy
 torch
-numpy
+sentencepiece  # Needed for transformers
