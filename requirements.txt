@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb 19 13:44:37 2025
+
+@author: sansk
+"""
+
+spacy
+pymupdf
+scikit-learn
+streamlit
+sentence-transformers
+torch
+numpy
